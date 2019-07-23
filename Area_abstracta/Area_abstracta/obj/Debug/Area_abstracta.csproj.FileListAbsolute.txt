@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\Area_abstracta\Area_abstracta\obj\Debug\Area_abstracta.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Area_abstracta\Area_abstracta\obj\Debug\Area_abstracta.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Area_abstracta\Area_abstracta\bin\Debug\Area_abstracta.exe.config
+C:\Users\Alex\source\repos\Area_abstracta\Area_abstracta\bin\Debug\Area_abstracta.exe
+C:\Users\Alex\source\repos\Area_abstracta\Area_abstracta\bin\Debug\Area_abstracta.pdb
+C:\Users\Alex\source\repos\Area_abstracta\Area_abstracta\obj\Debug\Area_abstracta.exe
+C:\Users\Alex\source\repos\Area_abstracta\Area_abstracta\obj\Debug\Area_abstracta.pdb
